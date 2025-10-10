@@ -1,0 +1,23 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vanek\\documents\\unreal projects\\ai_project\\plugins\\nomixvoiceaiplugin\\source\\filerequest\\private\\filehttprequest.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vanek\\documents\\unreal projects\\ai_project\\intermediate\\build\\win64\\x64\\ai_projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vanek\\documents\\unreal projects\\ai_project\\plugins\\nomixvoiceaiplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\filerequest\\definitions.filerequest.h",
+            "c:\\users\\vanek\\documents\\unreal projects\\ai_project\\plugins\\nomixvoiceaiplugin\\source\\filerequest\\public\\filehttprequest.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttprequest.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpbase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\kismet\\blueprintasyncactionbase.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\blueprintasyncactionbase.generated.h",
+            "c:\\users\\vanek\\documents\\unreal projects\\ai_project\\plugins\\nomixvoiceaiplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\filerequest\\uht\\filehttprequest.generated.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\online\\http\\public\\httpmodule.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponse.h",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponsecodes.inl",
+            "c:\\program files\\epic games\\ue_5.6\\engine\\source\\runtime\\online\\http\\public\\interfaces\\ihttpresponsecodes.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

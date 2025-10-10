@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\vanek\\documents\\unreal projects\\ai_project\\plugins\\nomixvoiceaiplugin\\intermediate\\build\\win64\\unrealeditor\\inc\\filerequest\\uht\\filerequest.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\vanek\\documents\\unreal projects\\ai_project\\intermediate\\build\\win64\\x64\\ai_projecteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\vanek\\documents\\unreal projects\\ai_project\\plugins\\nomixvoiceaiplugin\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\filerequest\\definitions.filerequest.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

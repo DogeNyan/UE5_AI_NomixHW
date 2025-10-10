@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FileRequest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/vanek/Documents/Unreal Projects/ai_project/Intermediate/Build/Win64/x64/ai_projectEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/vanek/Documents/Unreal Projects/ai_project/Plugins/NomixVoiceAIPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/FileRequest/FileHttpRequest.cpp.obj"
+"C:/Users/vanek/Documents/Unreal Projects/ai_project/Plugins/NomixVoiceAIPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/FileRequest/FileRequest.cpp.obj"
+"C:/Users/vanek/Documents/Unreal Projects/ai_project/Plugins/NomixVoiceAIPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/FileRequest/PerModuleInline.gen.cpp.obj"
+"C:/Users/vanek/Documents/Unreal Projects/ai_project/Plugins/NomixVoiceAIPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/FileRequest/FileHttpRequest.gen.cpp.obj"
+"C:/Users/vanek/Documents/Unreal Projects/ai_project/Plugins/NomixVoiceAIPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/FileRequest/FileRequest.init.gen.cpp.obj"
+"C:/Users/vanek/Documents/Unreal Projects/ai_project/Plugins/NomixVoiceAIPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/FileRequest/Default.rc2.res"
+/OUT:"C:/Users/vanek/Documents/Unreal Projects/ai_project/Plugins/NomixVoiceAIPlugin/Intermediate/Build/Win64/x64/UnrealEditor/Development/FileRequest/UnrealEditor-FileRequest.lib"
