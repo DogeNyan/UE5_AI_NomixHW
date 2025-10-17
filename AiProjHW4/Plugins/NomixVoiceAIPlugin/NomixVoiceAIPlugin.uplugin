@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "NomixVoiceAIPlugin",
+	"Description": "Nomix AI Features",
+	"Category": "Other",
+	"CreatedBy": "Nomix",
+	"CreatedByURL": "https://nomixvr.ru",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "FileRequest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
