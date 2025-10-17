@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.FileRequest.cpp.obj": [
+			"FileHttpRequest.gen.cpp.obj",
+			"FileRequest.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"FileHttpRequest.cpp.obj",
+			"FileRequest.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-FileRequest-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/vanek/OneDrive/Документы/Unreal Projects/ai_project/Intermediate/Build/Win64/x64/ai_projectEditor/DebugGame/UnrealEd/SharedPCH.UnrealEd.Project.NonOptimized.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:/Users/vanek/OneDrive/Документы/Unreal Projects/ai_project/Plugins/NomixVoiceAIPlugin/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/FileRequest/Module.FileRequest.cpp.obj"
+"C:/Users/vanek/OneDrive/Документы/Unreal Projects/ai_project/Plugins/NomixVoiceAIPlugin/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/FileRequest/Default.rc2.res"
+/OUT:"C:/Users/vanek/OneDrive/Документы/Unreal Projects/ai_project/Plugins/NomixVoiceAIPlugin/Intermediate/Build/Win64/x64/UnrealEditor/DebugGame/FileRequest/UnrealEditor-FileRequest-Win64-DebugGame.lib"
